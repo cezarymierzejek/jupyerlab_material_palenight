@@ -2,7 +2,7 @@
 
 ![Github Actions Status](https://github.com/cezarymierzejek/jupyterlab-material-palenight/workflows/Build/badge.svg)
 
-no desc
+A port of the Material Design Palenight Theme from VS Code and Sublime Text to JupyterLab
 
 
 ## Requirements
