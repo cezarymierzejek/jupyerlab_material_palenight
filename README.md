@@ -2,7 +2,7 @@
 
 ![Github Actions Status](https://github.com/cezarymierzejek/jupyterlab-material-palenight/workflows/Build/badge.svg)
 
-TBD
+no desc
 
 
 ## Requirements
