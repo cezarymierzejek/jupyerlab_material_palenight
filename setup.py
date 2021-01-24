@@ -13,8 +13,8 @@ import setuptools
 HERE = os.path.abspath(os.path.dirname(__file__))
 
 # The name of the project
-name = "jupyterlab_material_palenight"
-
+#name = "jupyterlab_material_palenight"
+name = "@cezarymierzejek/jupyterlab_material_palenight"
 # Get our version
 with open(os.path.join(HERE, 'package.json')) as f:
     version = json.load(f)['version']
