@@ -4,6 +4,8 @@
 
 A port of the Material Design Palenight Theme from VS Code and Sublime Text to JupyterLab
 
+Credits to the original color scheme creators: https://material-theme.site
+
 
 ## Requirements
 
@@ -11,9 +13,16 @@ A port of the Material Design Palenight Theme from VS Code and Sublime Text to J
 
 ## Install
 
-```bash
-jupyter labextension install @cezarymierzejek/jupyterlab_material_palenight
+To install it as a prebuilt extension (requires JupyterLab >= 3.0):
 
+```bash
+pip install jupyterlab_material_palenight
+```
+
+Or install it as a source extension:
+
+```bash
+jupyter labextension install jupyterlab_material_palenight
 ```
 
 ## Contributing
@@ -58,5 +67,9 @@ jupyter lab build --minimize=False
 
 ```bash
 pip uninstall jupyterlab_material_palenight
+```
+or 
+
+```bash
 jupyter labextension uninstall jupyterlab_palenight
 ```

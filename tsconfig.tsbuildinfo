@@ -1832,7 +1832,7 @@
         "affectsGlobalScope": false
       },
       "./src/index.ts": {
-        "version": "e9447deff8306a5dba6906b75ddab6fd9260bb303ec029fc63d0750fcce1514b",
+        "version": "c390149946b354882bb058711ee51fb13e98d8d4feea81ade34ce11686cc58c2",
         "signature": "7b8fa2b727b5df37de232996e27c53bd0d73274430f3789aa26aa3ee1d36c2af",
         "affectsGlobalScope": false
       }
