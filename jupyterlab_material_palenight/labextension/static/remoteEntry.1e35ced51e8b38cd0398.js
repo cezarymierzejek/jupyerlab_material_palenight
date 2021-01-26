@@ -237,7 +237,7 @@ __webpack_require__.d(exports, {
 /******/ 			var promises = [];
 /******/ 			switch(name) {
 /******/ 				case "default": {
-/******/ 					register("jupyterlab_palenight", "0.1.0", () => __webpack_require__.e("lib_index_js").then(() => () => __webpack_require__(/*! ./lib/index.js */ "./lib/index.js")));
+/******/ 					register("jupyterlab_palenight", "0.2.0", () => __webpack_require__.e("lib_index_js").then(() => () => __webpack_require__(/*! ./lib/index.js */ "./lib/index.js")));
 /******/ 				}
 /******/ 				break;
 /******/ 			}
@@ -529,4 +529,4 @@ __webpack_require__.d(exports, {
 /******/ 	return __webpack_require__("webpack/container/entry/jupyterlab_palenight");
 /******/ })()
 ;
-//# sourceMappingURL=remoteEntry.2b736552eaf1cac354d7.js.map
+//# sourceMappingURL=remoteEntry.1e35ced51e8b38cd0398.js.map

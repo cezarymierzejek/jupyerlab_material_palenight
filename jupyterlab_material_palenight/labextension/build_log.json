@@ -571,7 +571,7 @@
               "singleton": true
             },
             "jupyterlab_palenight": {
-              "version": "0.1.0",
+              "version": "0.2.0",
               "singleton": true,
               "import": "/Users/cezarymierzejek/Desktop/open_source/jupyterlab_material_palenight/lib/index.js"
             }
