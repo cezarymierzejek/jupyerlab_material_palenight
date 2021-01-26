@@ -16,7 +16,7 @@ Credits to the original color scheme creators: https://material-theme.site
 To install it as a prebuilt extension (requires JupyterLab >= 3.0):
 
 ```bash
-pip install jupyterlab_palenight
+pip install jupyterlab_palenight 
 ```
 
 Or install it as a source extension:
