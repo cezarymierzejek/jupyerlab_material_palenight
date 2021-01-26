@@ -1,4 +1,4 @@
-# jupyterlab_material_palenight
+# JupyerLab Material: Palenight
 
 ![Preview](palenight_screenshot.png)
 
