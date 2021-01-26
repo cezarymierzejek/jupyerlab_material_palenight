@@ -16,13 +16,13 @@ Credits to the original color scheme creators: https://material-theme.site
 To install it as a prebuilt extension (requires JupyterLab >= 3.0):
 
 ```bash
-pip install jupyterlab_material_palenight
+pip install jupyterlab_palenight
 ```
 
 Or install it as a source extension:
 
 ```bash
-jupyter labextension install jupyterlab_material_palenight
+jupyter labextension install jupyterlab_palenight
 ```
 
 ## Contributing
@@ -37,7 +37,7 @@ The `jlpm` command is JupyterLab's pinned version of
 
 ```bash
 # Clone the repo to your local environment
-# Change directory to the jupyterlab_material_palenight directory
+# Change directory to the jupyterlab_palenight directory
 # Install package in development mode
 pip install -e .
 # Link your development version of the extension with JupyterLab
@@ -66,7 +66,7 @@ jupyter lab build --minimize=False
 ### Uninstall
 
 ```bash
-pip uninstall jupyterlab_material_palenight
+pip uninstall jupyterlab_palenight
 ```
 or 
 
