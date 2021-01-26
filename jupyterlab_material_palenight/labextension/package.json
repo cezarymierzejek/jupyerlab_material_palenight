@@ -65,7 +65,7 @@
     "themePath": "style/index.css",
     "outputDir": "jupyterlab_material_palenight/labextension",
     "_build": {
-      "load": "static/remoteEntry.2e1e90155e519c8f7c79.js",
+      "load": "static/remoteEntry.2b736552eaf1cac354d7.js",
       "extension": "./extension",
       "style": "./style"
     }
